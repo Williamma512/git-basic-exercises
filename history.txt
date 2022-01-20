@@ -1,0 +1,137 @@
+    1  pkg update
+    2  update
+    3  pkg update
+    4  git config --global user.name "William Makins"
+    5  git config --global user.name
+    6  auth login
+    7  gh auth login
+    8  gh auth login --with-token <myto
+    9  cd /c/documents
+   10  cd /c
+   11  cd /users
+   12  cd /Users
+   13  cd /c/Users
+   14  cd /c/Users/William
+   15  cd /c/Users/William/documents
+   16  cd /c/Users/William/documents/.vscode
+   17  git add
+   18  git add -Task1
+   19  cd /c/Users/William/documents/Level 0 Coding Challenges
+   20  cd /c
+   21  cd /c/Users
+   22  cd /William
+   23  cd /william
+   24  cd /c/Users/William
+   25  cd /documents
+   26  cd /c/Users/William/Documents
+   27  cd /Level 0 Coding Challenges
+   28  cd /Level_Coding_Challenges
+   29  cd /.vscode
+   30  cd /documents/.vscode
+   31  cd /c/Users/William/documents/.vscode
+   32  git clone https://github.com/Williamma512/Level_0_Challenges.git
+   33  git add
+   34  cd /Level_0_Challenges
+   35  cd /c/Users/William/Documents/.vscode/Level_0_Challenges
+   36  git add
+   37  git add Task1.js
+   38  git add Task2.js
+   39  git add Task3.js
+   40  git add Task4.js
+   41  git add Task5.js
+   42  git add Task6.js
+   43  git add Task7.js
+   44  git add Task8.js
+   45  git add Task9.js
+   46  git add Task10.js
+   47  git status
+   48  git push origin your-branch
+   49  git push origin Level_0_Coding_Challenges
+   50  git push origin 
+   51  git add
+   52  cd /c/Users/William/documents/.vscode/Level_0_Coding_Challenges
+   53  cd /c/Users/William/documents/.vscodeevel_0_Coding_Challenges
+   54  cd /c/Users/William/documents/.vscode
+   55  cd /c/Users/William/documents/.vscode
+   56  cd /c/Users/William/documents/.vscode/Level_0_Challenges
+   57  git status
+   58  git push origin evel_0_Coding_Challenges
+   59  git push
+   60  git commit -m
+   61  git commit -m "Add existing file"
+   62  git config --global williammakins595@gmail.com
+   63  git config --global user.email williammakins595@gmail.com
+   64  git commit -m "Add existing file"
+   65  git push origin your-branch
+   66  git push origin https://github.com/Williamma512/Level_0_Challenges.git
+   67  git config --global user.email
+   68  git add Task1.js
+   69  git status
+   70  git-basic-execsises
+   71  git - basic-exercises
+   72  mkdr
+   73  mkdir
+   74  mkdir -help
+   75  mkdir --help
+   76  mkdir
+   77  mkdir git-basic-exercises
+   78  pwd
+   79  cd git-bass-exercises
+   80  cd git-basic-exercises
+   81  ls -a
+   82  git init
+   83  ls -a
+   84  git status
+   85  touch README.md
+   86  ls -a
+   87  git status
+   88  git log
+   89  git init
+   90  git status
+   91  git commit -m
+   92  git commit -m "initial commit"
+   93  git log
+   94  git add
+   95  git add
+   96  git add README.md
+   97  git status
+   98  git rm
+   99  git rm README.md
+  100  git status
+  101  git commit -m "initial commit"
+  102  nano README.md
+  103  y
+  104  cat README.md
+  105  git status
+  106  nano README.md
+  107  git status
+  108  git commit -m "second commit"
+  109  git commit -m "second commit"
+  110  git add
+  111  git add README.md
+  112  git commit -m "second commit"
+  113  nano README.md
+  114  git add
+  115  git add README.md
+  116  git commit -m "third commit"
+  117  git log
+  118  q
+  119  git checkout 
+  120  git checkout  de19445766af98c4991697024f64365736dfd4d3
+  121  git checkout de19445766af98c4991697024f64365736dfd4d3
+  122  cat README.md
+  123  git checkout main
+  124  git branch
+  125  git checkout -b "milkshake-flavours"
+  126  git branch
+  127  nano milkshakes.md
+  128  git status
+  129  git add milkshakes.md
+  130  git commit -m "added initial flavours"
+  131  git log
+  132  git checkout
+  133  git status
+  134  git checkout -b history
+  135  git log
+  136  git branch
+  137  history > history.txt
